@@ -1,2 +1,26 @@
-# Mindfuck
-mostly esoteric gimmick projects with the most random unusual projects
+# Mindfuck 🧠 🔫:
+*mostly gimmick projects with the most random unusual esoteric programming languages*
+
+>>Curently Experimenting
+>Brainfuck
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
